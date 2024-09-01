@@ -60,3 +60,8 @@ The menu page is created using JSP to showcase a restaurant's available dishes, 
 
 https://github.com/user-attachments/assets/192e492d-b8fd-40e8-a070-452ef554da4c
 
+<h3>Cart Page</h3>
+
+The cart page is developed using JSP to display the items a user has selected for purchase, showing details like item names, quantities, and subtotals. Java Servlets manage the cart's logic, retrieving data from the session and updating it as the user modifies their cart. The page allows users to review their selections before proceeding to checkout, with the MVC architecture ensuring that the data handling and presentation layers remain separate for easier maintenance and scalability
+
+![Screenshot 2024-09-02 010233](https://github.com/user-attachments/assets/6434cf5c-bd1d-4394-8820-80a90af524d5)
