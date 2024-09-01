@@ -6,16 +6,14 @@ The TapFoods is a web-based application designed to simplify and enhance the foo
 This system is developed using Java, JSP, Servlets, and JDBC, and follows the MVC (Model-View-Controller) design pattern to ensure a 
 clean separation of concerns, making the application scalable, maintainable, and easy to manage.
 
+<h2>Technology Stack</h2>
 
----><h2>Technology Stack</h2>
-
----><h3>Frontend<h3>
+<h3>Frontend<h3>
 
 JSP (JavaServer Pages): Used for building dynamic web pages that interact with users, displaying restaurant listings, menus, carts, order history, etc.
 CSS & JavaScript: Applied for styling and enhancing the user interface with responsive and interactive elements.
 
----><h3>Backend<h3>
-
+<h3>Backend<h3>
 
 ->Java Servlets: Act as controllers in the MVC architecture, handling requests from the client, processing them, and returning the appropriate response.
 
