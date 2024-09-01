@@ -44,3 +44,7 @@ The login page is built using JSP for the front-end, where users enter their ema
 The register page is created using JSP for the user interface, allowing new users to input their details like name, email, password, and address. Java Servlets process the registration data, storing it securely in a MySQL database using JDBC.
 
 ![Screenshot 2024-09-01 231208](https://github.com/user-attachments/assets/3546a3a0-2b88-4ce2-87cc-b37d5aafcd33)
+
+
+https://github.com/user-attachments/assets/12a26d81-7811-4023-8d77-6be6dce7fdcc
+
