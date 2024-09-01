@@ -71,3 +71,9 @@ The cart page is developed using JSP to display the items a user has selected fo
 The checkout page is designed using JSP to gather and display the user's order summary and shipping information before placing an order. Java Servlets handle the backend logic, processing the order details, calculating the total amount, and saving the order to the database. 
 
 ![Screenshot 2024-09-02 010643](https://github.com/user-attachments/assets/a5682abc-0bed-447a-8a02-8715bb4351ed)
+
+<h3>OrderConfirmed page</h3>
+
+The order confirmation page is created using JSP and displays a summary of the order that has just been placed, including details like the order ID, date, and total amount. It confirms to the user that their order was successfully processed and saved in the database.
+
+![Screenshot 2024-09-02 011003](https://github.com/user-attachments/assets/eeedb966-02d7-4340-a972-ae2f31ea78b2)
