@@ -40,11 +40,19 @@ The login page is built using JSP for the front-end, where users enter their ema
 
 ![Screenshot 2024-09-01 225342](https://github.com/user-attachments/assets/4b31cc8c-f6ce-4429-9e3e-ea5cc88f21ee)
 
+
 <h3>Register Page</h3>
 The register page is created using JSP for the user interface, allowing new users to input their details like name, email, password, and address. Java Servlets process the registration data, storing it securely in a MySQL database using JDBC.
 
 ![Screenshot 2024-09-01 231208](https://github.com/user-attachments/assets/3546a3a0-2b88-4ce2-87cc-b37d5aafcd33)
 
 
-https://github.com/user-attachments/assets/12a26d81-7811-4023-8d77-6be6dce7fdcc
+<h3>Restaurents Page</h3>
+
+The restaurants page is built using JSP to dynamically display a list of restaurants, including their names, cuisine types, delivery times, and images. Java Servlets handle the retrieval of restaurant data from a MySQL database via JDBC, and the information is presented to users in an organized layout. The page follows the MVC design pattern, ensuring that the data presentation, business logic, and database interactions remain separated.
+
+https://github.com/user-attachments/assets/5c4a8977-09b8-469b-a504-a3229a76fecb
+
+
+
 
