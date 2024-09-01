@@ -54,5 +54,9 @@ The restaurants page is built using JSP to dynamically display a list of restaur
 https://github.com/user-attachments/assets/5c4a8977-09b8-469b-a504-a3229a76fecb
 
 
+<h3>Menu Page</h3>
 
+The menu page is created using JSP to showcase a restaurant's available dishes, including item names, descriptions, prices, and images. Java Servlets fetch the menu data from a MySQL database using JDBC, ensuring real-time updates. The page is structured to allow users to add items to their cart, with the MVC design pattern maintaining a clear separation between the user interface, business logic, and data access layers.
+
+https://github.com/user-attachments/assets/192e492d-b8fd-40e8-a070-452ef554da4c
 
