@@ -8,15 +8,17 @@ clean separation of concerns, making the application scalable, maintainable, and
 
 <h2>Technology Stack</h2>
 
-<h3>Frontend<h3>
+<h3>Frontend</h3>
 
 JSP (JavaServer Pages): Used for building dynamic web pages that interact with users, displaying restaurant listings, menus, carts, order history, etc.
 CSS & JavaScript: Applied for styling and enhancing the user interface with responsive and interactive elements.
 
-<h3>Backend<h3>
+<h3>Backend</h3>
 
 ->Java Servlets: Act as controllers in the MVC architecture, handling requests from the client, processing them, and returning the appropriate response.
+
 ->JDBC (Java Database Connectivity): Used for interacting with the database to perform CRUD (Create, Read, Update, Delete) operations, such as managing users, restaurants, menu items, and orders.
+
 ->DAO Pattern: The Data Access Object (DAO) pattern is implemented to abstract and encapsulate all access to the data source, making the codebase cleaner and easier to manage.
 
 <h3>Database</h3>
