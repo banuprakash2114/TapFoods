@@ -65,3 +65,9 @@ https://github.com/user-attachments/assets/192e492d-b8fd-40e8-a070-452ef554da4c
 The cart page is developed using JSP to display the items a user has selected for purchase, showing details like item names, quantities, and subtotals. Java Servlets manage the cart's logic, retrieving data from the session and updating it as the user modifies their cart. The page allows users to review their selections before proceeding to checkout, with the MVC architecture ensuring that the data handling and presentation layers remain separate for easier maintenance and scalability
 
 ![Screenshot 2024-09-02 010233](https://github.com/user-attachments/assets/6434cf5c-bd1d-4394-8820-80a90af524d5)
+
+<h3>Checkout page</h3>
+
+The checkout page is designed using JSP to gather and display the user's order summary and shipping information before placing an order. Java Servlets handle the backend logic, processing the order details, calculating the total amount, and saving the order to the database. 
+
+![Screenshot 2024-09-02 010643](https://github.com/user-attachments/assets/a5682abc-0bed-447a-8a02-8715bb4351ed)
