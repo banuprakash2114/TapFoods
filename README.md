@@ -26,7 +26,8 @@ Backend:
 
 Database:
 
-MySQL (or any relational database): Stores user data, restaurant information, menus, orders, and other relevant data. The database schema is designed to efficiently manage and relate these entities.
+MySQL (or any relational database): Stores user data, restaurant information, menus, orders, and other ![Screenshot 2024-09-01 225342](https://github.com/user-attachments/assets/4b31cc8c-f6ce-4429-9e3e-ea5cc88f21ee)
+relevant data. The database schema is designed to efficiently manage and relate these entities.
 MVC Architecture:
 
 Model: Represents the data and business logic of the application. The Cart, Order, User, and Restaurant classes are examples of models that represent the application's data structure.
