@@ -16,17 +16,13 @@ CSS & JavaScript: Applied for styling and enhancing the user interface with resp
 <h3>Backend<h3>
 
 ->Java Servlets: Act as controllers in the MVC architecture, handling requests from the client, processing them, and returning the appropriate response.
-
 ->JDBC (Java Database Connectivity): Used for interacting with the database to perform CRUD (Create, Read, Update, Delete) operations, such as managing users, restaurants, menu items, and orders.
-
 ->DAO Pattern: The Data Access Object (DAO) pattern is implemented to abstract and encapsulate all access to the data source, making the codebase cleaner and easier to manage.
 
-
----><h3>Database</h3>
+<h3>Database</h3>
 
 MySQL (or any relational database): Stores user data, restaurant information, menus, orders, and other relevant data. 
 The database schema is designed to efficiently manage and relate these entities.
-
 
 <h3>MVC Architecture</h3>
 
