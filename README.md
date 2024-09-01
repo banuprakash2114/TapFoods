@@ -38,11 +38,8 @@ Controller: Servlets act as controllers, handling incoming requests, interacting
 
 The login page is built using JSP for the front-end, where users enter their email and password. Java Servlets handle the backend, validating the credentials against a MySQL database using JDBC. The project follows the MVC design pattern, ensuring a clean separation between the user interface, business logic, and data management.
 
-
-
-
-
-
-
-
 ![Screenshot 2024-09-01 225342](https://github.com/user-attachments/assets/4b31cc8c-f6ce-4429-9e3e-ea5cc88f21ee)
+
+<h3>Register Page</h3>
+The register page is created using JSP for the user interface, allowing new users to input their details like name, email, password, and address. Java Servlets process the registration data, storing it securely in a MySQL database using JDBC.
+![Screenshot 2024-09-01 231208](https://github.com/user-attachments/assets/2bf28508-4715-484c-be64-6537214cf037)
